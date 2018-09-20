@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1525182669 source:f:\workplace\c++\bu_la\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
